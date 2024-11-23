@@ -1,2 +1,4 @@
 Alumno1: 15
 Alumno2: 18
+Alumno3: 13
+Alumno4: 20
